@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica: Sistema Musculoesquelético'
+message: Modelado de Sistemas Fisiológicos / Ingeniería Biomédica
+type: software
+authors:
+  - given-names: Aaron R.
+    family-names: Rosas Montoya
+    email: l23210716@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+identifiers:
+  - type: url
+    value: 'https://github.com/aaronrosas08/MSFPractica3'
+    description: Repositorio GitHub
+repository-code: 'https://github.com/aaronrosas08/MSFPractica3'
+keywords:
+  - Modelo musculoesquelético
+  - Fuerza-voltaje
+  - Sarcolema
+  - Amortiguamiento viscoso
+  - Superposición
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-04-06'
